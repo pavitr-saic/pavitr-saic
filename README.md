@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavitrprabhakar&label=Profile%20views&color=0e75b6&style=flat" alt="pavitrprabhakar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pavitrwebslinger" target="blank"><img src="https://img.shields.io/twitter/follow/pavitrwebslinger?logo=twitter&style=for-the-badge" alt="pavitrwebslinger" /></a> </p>
 
 - 🕸️ **Superpowers:** Web Scraping, JavaScript, Python, Swinging Between Frameworks
 - 💘 **Weaknesses:** Memory leaks, spicy vada pav, and girls who say "I love tech guys" but date finance bros

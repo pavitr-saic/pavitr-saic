@@ -23,6 +23,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-- **Here's a flag:** "saic{p@v1tr_g0t_c4ugh7_1n_w4yb4ck_w3b!!}
+- **Here's a flag:** saic{p@v1tr_g0t_c4ugh7_1n_w4yb4ck_w3b!!}
 
 

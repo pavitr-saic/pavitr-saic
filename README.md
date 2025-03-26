@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavitr Prabhakar!</h1>
+<h1 align="center">Hi 👋, I'm Pavitr Prabhakar aka SpideyPavitr!</h1>
 <h3 align="center">🕷️ IIT Mandi's Own Web-Slinging Coder | Debugging by Day, Swinging by Night</h3>
 
 <p align="center">
